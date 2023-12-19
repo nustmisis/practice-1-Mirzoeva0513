@@ -9,5 +9,11 @@ weight = input()
 height = input()
 
 
-#Ваш кол
+weight = float(input("введите вас вес (кг)"))
+height = float(input(Введите вас рост (см))
+               # переводим рост в метры
+               height=height/100
+       
+BMI = weight/height**2
+print(" ваш индек массы тела :" BMI)
 
