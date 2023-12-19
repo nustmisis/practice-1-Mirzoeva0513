@@ -5,4 +5,9 @@
 следующий результат: 3 + 1 + 4 + 1 = 9
 
 @author: Savant
-"""
+""x=input()
+summa=0
+for i in x:
+    summa += int(i)
+    print(summa)"
+
